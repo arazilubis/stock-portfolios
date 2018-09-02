@@ -1,6 +1,3 @@
-#Author: Arazi Lubis 
-#Fama - Miller RA Test
-#6/30/2018
 
 #For this project, I worked on a computer in the Economics Building at Penn State. 
 #When submitting this project, the main parent directory is the folder called 'Project1'
